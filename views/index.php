@@ -13,6 +13,7 @@
 		</video>
 		<div class="front">
 			<h1>Restaurante Italiano: El Italiani</h1>
+			<p>Hola</p>
 		</div>
 	</div>
 </body>
